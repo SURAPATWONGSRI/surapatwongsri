@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Surapat Wongsri (Kim) and I'm a student, from Thailand</p>
+<p align="left">My name is Surapat Wongsri and I'm a student, from Thailand</p>
 
 ###
 
