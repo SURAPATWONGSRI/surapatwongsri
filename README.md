@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surapat Wongsri</h1>
-<h3 align="center">Im Front End Develoop</h3>
+<h3 align="center">Im Front End Developer</h3>
 
 - 🔭 I’m currently working on [Rmutt-Net-Zero](https://test1netzero.netlify.app/)
 
