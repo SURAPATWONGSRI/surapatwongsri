@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">🌟 About Me</h2>
+<h2 align="left">🌟 About Me</h2>
 
 <p align="center">
   📚 I'm currently learning <strong>Next.js, Vue 3</strong> <br>
